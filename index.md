@@ -15,6 +15,8 @@ Park on the 3rd floor, take a left after the elevators, a left at the end of the
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3463.6449651667763!2d-95.36782462141501!3d29.758986675068652!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8640bfe9df0c18ad%3A0x1d2b1fbbf4b2b2bc!2sAllthenticate!5e0!3m2!1sen!2sus!4v1740582706540!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
+All announcments and coordination will be done our [Hacking Club Discord](https://discord.gg/ta3fJdqX67)
+
 You can keep track of our meetings (and others) with [Houston Cybersecurity Calendar](https://calendar.google.com/calendar/embed?src=5lv78r50v0dm8nnppl93fno9h8%40group.calendar.google.com&ctz=America%2FChicago)
 
 
