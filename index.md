@@ -27,6 +27,7 @@ You can keep track of our meetings (and others) with [Houston Cybersecurity Cale
 
 ***
 
+
 ## Sponsors
 - [Allthenticate](https://www.allthenticate.com){:target="_blank"}
 - [Shellphish](https://www.shellphish.net){:target="_blank"} 
